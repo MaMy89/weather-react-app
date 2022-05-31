@@ -10,4 +10,9 @@ function App() {
   );
 }
 
+<p>
+  <a href="https://github.com/MaMy89/weather-react-app">Open-source code</a> by
+  Mari Myhrer
+</p>;
+
 export default App;
